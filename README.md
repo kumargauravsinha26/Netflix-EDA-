@@ -3,5 +3,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 a) Data Cleaning: Handling Misiing values
 b) Data Analsis: By making visualisation we made inferences on the dataset
 
+DATASET: netflix_title
+Code: Netflix EDA
 
 
